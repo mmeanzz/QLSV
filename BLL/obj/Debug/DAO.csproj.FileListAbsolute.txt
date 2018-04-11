@@ -1,0 +1,7 @@
+E:\Data\GitHub\QLSV\BLL\bin\Debug\DAO.dll
+E:\Data\GitHub\QLSV\BLL\bin\Debug\DAO.pdb
+E:\Data\GitHub\QLSV\BLL\bin\Debug\DAL.dll
+E:\Data\GitHub\QLSV\BLL\bin\Debug\DAL.pdb
+E:\Data\GitHub\QLSV\BLL\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Data\GitHub\QLSV\BLL\obj\Debug\DAO.dll
+E:\Data\GitHub\QLSV\BLL\obj\Debug\DAO.pdb
